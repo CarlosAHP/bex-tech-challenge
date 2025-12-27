@@ -1,0 +1,1 @@
+import{w as t,p as s,O as e}from"./chunk-WWGJGFF6-BhEg64Nv.js";const i=t(function(){return s.jsx("div",{className:"flex min-h-svh w-full items-center justify-center p-6 md:p-10",children:s.jsx("div",{className:"w-full max-w-sm",children:s.jsx(e,{})})})});export{i as default};
