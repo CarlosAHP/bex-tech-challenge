@@ -80,3 +80,15 @@ graph TD
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [shadcn/ui](https://ui.shadcn.com/)
 -   [Vite](https://vitejs.dev/)
+
+## 📸 Galería de Pruebas
+
+A continuación se muestran capturas del proceso de desarrollo:
+
+![Prueba 1](imagenes_pruebas/Imagen%201.png)
+![Prueba 2](imagenes_pruebas/Imagen%202.png)
+![Prueba 3](imagenes_pruebas/Imagen%203.png)
+
+## 📝 Registro de Prompts
+
+Para ver el detalle de cómo se utilizó la IA para construir este proyecto, consulta el [Registro de Prompts](PROMPTS_LOG.md).
